@@ -1,9 +1,9 @@
-This is Ece Ozturk's repository used for 🫙 archiving, 👩🏼‍💻 developing, and 💪 sharing.
+This is Ece Ozturk's repository used to 🫙archive, 👩🏼‍💻experiment, and 💪share.
 
   
 Ece is currently a junior year electronics engineering student in Bogazici University.
 
-She ✨ loves ✨ to design in every field and this git is especially for her Python and VHDL projects.
+She ✨ loves ✨ to design and develop in every field and this git is especially for her Python and VHDL projects.
 
 If you wanna reach ✉️ eceozturke@gmail.com
 
