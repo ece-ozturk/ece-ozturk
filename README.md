@@ -2,9 +2,9 @@
 
 
 
-Ece is currently a junior year electronics engineering student. She ✨ loves ✨ to learn, design and develop in every field and this git is especially for her Python, VHDL and Verilog projects.
+Ece is currently a junior year electronics engineering student. She ✨ loves ✨ to learn, design and develop in every field of life and this repo is especially for her academic & professional projects. 
 
-If you wanna reach ✉️ eceozturke@gmail.com
+If you wanna reach out ✉️ eceozturke@gmail.com
 
 <!---
 ece-ozturk/ece-ozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
