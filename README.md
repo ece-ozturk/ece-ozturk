@@ -4,7 +4,7 @@
 
 Ece is currently a senior year electronics engineering student. She ✨ loves ✨ to learn, design and develop in every field of life and this repo is especially for her academic & professional projects. 
 
-If you wanna reach out ✉️ eceozturke@gmail.com
+If you want to reach out ✉️ eceozturke@gmail.com
 
 <!---
 ece-ozturk/ece-ozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
