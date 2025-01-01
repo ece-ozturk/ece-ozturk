@@ -2,7 +2,7 @@
 
 
 
-Ece is currently a junior year electronics engineering student. She ✨ loves ✨ to learn, design and develop in every field of life and this repo is especially for her academic & professional projects. 
+Ece is currently a senior year electronics engineering student. She ✨ loves ✨ to learn, design and develop in every field of life and this repo is especially for her academic & professional projects. 
 
 If you wanna reach out ✉️ eceozturke@gmail.com
 
